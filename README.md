@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
- <img alt="languages count" src="https://img.shields.io/github/languages/count/ronierlima/color=2c3e50&labelColor=lightgrey"/>
+ <img alt="languages count" src="https://img.shields.io/github/languages/count/ronierlima/js-radiola?color=2c3e50&labelColor=lightgrey"/>
 
-  <img alt="https://img.shields.io/github/repo-size/ronierlima/js-radiola?color=2c3e50&labelColor=lightgrey">
+  <img alt="https://img.shields.io/github/repo-size/ronierlima/js-radiola?color=2c3e50&labelColor=lightgrey"/>
 </p>
 
 ---
@@ -14,7 +14,7 @@
   <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://ronierlima.github.io/js-radiola/">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://ronierlima.github.io/js-radiola/">Demo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </>
 
 ## :page_with_curl: Sobre 
