@@ -4,8 +4,8 @@
 
 <p align="center">
  <img alt="languages count" src="https://img.shields.io/github/languages/count/ronierlima/js-radiola?color=2c3e50&labelColor=lightgrey"/>
-
-  <img alt="https://img.shields.io/github/repo-size/ronierlima/js-radiola?color=2c3e50&labelColor=lightgrey"/>
+    
+ <img alt="repo size" src="https://img.shields.io/github/repo-size/ronierlima/js-radiola?color=2c3e50&labelColor=lightgrey"/>
 </p>
 
 ---
