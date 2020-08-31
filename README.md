@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Radiola" title="Radiola" src=".docs/header.png" width="1080px"/>
+    <img alt="Radiola" title="Radiola" src=".docs/header.png" width="512px"/>
 </h1>
 
 <p align="center">
