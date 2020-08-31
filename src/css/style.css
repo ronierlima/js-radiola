@@ -12,6 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   color: var(--primary);
+  flex-direction: column;
 }
 
 #player {
@@ -82,6 +83,7 @@ input[type="range"]::-moz-range-thumb {
 input[type="range"]::-ms-thumb {
   background-color: var(--primary);
 }
+
 
 .change-tracks {
   margin-bottom: 20px;
